@@ -1,0 +1,82 @@
+[
+    {
+        "username": "Angelina Garner",
+        "userId": 0,
+        "balance": 10000
+    },
+    {
+        "username": "Paul Molly",
+        "userId": 0,
+        "balance": 999
+    },
+    {
+        "username": "Misa Misa",
+        "userId": 0,
+        "balance": 852
+    },
+    {
+        "username": "Anderson Hong",
+        "userId": 0,
+        "balance": 786
+    },
+    {
+        "username": "Daniel Tan",
+        "userId": 0,
+        "balance": 655
+    },
+    {
+        "username": "Luke Lo",
+        "userId": 0,
+        "balance": 554
+    },
+    {
+        "username": "Henry Watson",
+        "userId": 0,
+        "balance": 454
+    },
+    {
+        "username": "Jenny Pandora",
+        "userId": 0,
+        "balance": 354
+    },
+    {
+        "username": "Lisa Lui",
+        "userId": 0,
+        "balance": 2765
+    },
+    {
+        "username": "Momo Tan",
+        "userId": 0,
+        "balance": 156
+    },
+    {
+        "username": "Owen Tan",
+        "userId": 0,
+        "balance": 650
+    },
+    {
+        "username": "Lile Lo",
+        "userId": 0,
+        "balance": 500
+    },
+    {
+        "username": "Yun Lee",
+        "userId": 0,
+        "balance": 300
+    },
+    {
+        "username": "Penny Teo",
+        "userId": 0,
+        "balance": 222
+    },
+    {
+        "username": "Aimer Loe",
+        "userId": 0,
+        "balance": 132
+    },
+    {
+        "username": "Jesper Ooi",
+        "userId": 0,
+        "balance": 100
+    }
+]

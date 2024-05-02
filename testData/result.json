@@ -1,0 +1,57 @@
+{
+    "rank": 0,
+    "roomId": -1,
+    "digit":-1,
+    "rooms": [
+        {
+            "canPlay": true
+        },
+        {
+            "canPlay": true
+        },
+        {
+            "canPlay": true
+        }
+    ],
+    "hints": [
+        {
+            "hint": "Range is within 4000 to 4999"
+        },
+        {
+            "hint": "First 2 number is a multiple of 5"
+        },
+        {
+            "hint": "3rd number is +3 of 2nd number"
+        },
+        {
+            "hint": "4th number is an odd number"
+        },
+        {
+            "hint": "3rd + 4th number is = 10"
+        }
+    ],
+    "guesses": [
+        {
+            "guessId": 0,
+            "guess": 156976,
+            "canPlay": false,
+            "correct": false
+        },
+        {
+            "guessId": 1,
+            "guess": 258547,
+            "canPlay": false,
+            "correct": false
+        }
+    ],
+    "chooseGame": {
+        "choiceIds": [0,2],
+        "canPlay": false,
+        "correct": false,
+        "choices": [
+            122457,
+            111111,
+            856437
+        ]
+    }
+}
