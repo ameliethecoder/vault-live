@@ -1,7 +1,7 @@
 {
     "rank": 0,
     "roomId": -1,
-    "digit":-1,
+    "digit": -1,
     "rooms": [
         {
             "canPlay": true
@@ -43,7 +43,6 @@
             "canPlay": false,
             "correct": false
         },
-
         {
             "guessId": 2,
             "guess": -1,
@@ -52,7 +51,10 @@
         }
     ],
     "chooseGame": {
-        "choiceIds": [0,2],
+        "choiceIds": [
+            0,
+            2
+        ],
         "canPlay": false,
         "correct": false,
         "choices": [
