@@ -1,0 +1,47 @@
+{
+   
+    "rooms": [
+        {
+            "name": "Normal Vault",
+            "deposit": 100,
+            "winAmount": 35,
+            "firstHint": 3,
+            "digit": 4,
+            "eligibility": "VIP Tiers",
+            "canPlay": true,
+            "cracked": false,
+            "isPlaying": false,
+            "chance": 3,
+            "maxHintPerDay": 3,
+            "totalHint": 4
+        },
+        {
+            "name": "Gold Vault",
+            "deposit": 200,
+            "winAmount": 70,
+            "firstHint": 4,
+            "digit": 5,
+            "eligibility": "VIP Tiers",
+            "canPlay": true,
+            "cracked": false,
+            "isPlaying": false,
+            "chance": 3,
+            "maxHintPerDay": 3,
+            "totalHint": 5
+        },
+        {
+            "name": "Diamond Vault",
+            "deposit": 500,
+            "winAmount": 150,
+            "firstHint": 4,
+            "digit": 6,
+            "eligibility": "Except Normal Tier",
+            "canPlay": true,
+            "cracked": false,
+            "isPlaying": false,
+            "chance": 3,
+            "maxHintPerDay": 3,
+            "totalHint": 6
+        }
+    ]
+}

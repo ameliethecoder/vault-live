@@ -1,0 +1,26 @@
+{
+    "rank": 0,
+    "roomId": -1,
+    "digit":-1,
+    "rooms": [
+        {
+            "canPlay": true
+        },
+        {
+            "canPlay": true
+        },
+        {
+            "canPlay": true
+        }
+    ],
+    "hints": [
+        {
+            "hint": "Range is within 4000 to 4999"
+        },
+        {
+            "hint": "First 2 number is a multiple of 5"
+        }
+    ],
+    "guesses": [
+    ]
+}
