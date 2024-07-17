@@ -1,0 +1,65 @@
+{
+    "date": "2024-06-16",
+    "games": [
+        {
+            "matchId": 0,
+            "startTime": "01:00PM (+8GMT)",
+            "endTime": "04:00PM (+8GMT)",
+            "boardId": 0,
+            "canPlay": true,
+            "home": {
+                "team": "Italy",
+                "teamId": 7,
+                "win": 1,
+                "points": 3
+            },
+            "away": {
+                "team": "Albania",
+                "teamId": 8,
+                "win": 0,
+                "points": -1
+            },
+            "sideId": -1
+        },
+        {
+            "matchId": 0,
+            "startTime": "02:00PM (+8GMT)",
+            "endTime": "04:00PM (+8GMT)",
+            "boardId": 1,
+            "canPlay": true,
+            "home": {
+                "team": "Slovenia",
+                "teamId": 9,
+                "win": 1,
+                "points": 3
+            },
+            "away": {
+                "team": "Denmark",
+                "teamId": 10,
+                "win": 0,
+                "points": -1
+            },
+            "sideId": -1
+        },
+        {
+            "matchId": 0,
+            "startTime": "03:00PM (+8GMT)",
+            "endTime": "04:00PM (+8GMT)",
+            "boardId": 2,
+            "canPlay": true,
+            "home": {
+                "team": "Serbia",
+                "teamId": 11,
+                "win": 1,
+                "points": 3
+            },
+            "away": {
+                "team": "Spain",
+                "teamId": 5,
+                "win": 0,
+                "points": -1
+            },
+            "sideId": -1
+        }
+    ]
+}

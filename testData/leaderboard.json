@@ -1,82 +1,98 @@
 [
     {
         "username": "Angelina Garner",
-        "userId": 0,
-        "balance": 10000
+        "prize": 0,
+        "share": "1%",
+        "points": 10000
     },
     {
         "username": "Paul Molly",
-        "userId": 0,
-        "balance": 999
+        "prize": 0,
+        "share": "1%",
+        "points": 999
     },
     {
         "username": "Misa Misa",
-        "userId": 0,
-        "balance": 852
+        "prize": 0,
+        "share": "1%",
+        "points": 852
     },
     {
         "username": "Anderson Hong",
-        "userId": 0,
-        "balance": 786
+        "prize": 0,
+        "share": "1%",
+        "points": 786
     },
     {
         "username": "Daniel Tan",
-        "userId": 0,
-        "balance": 655
+        "prize": 0,
+        "share": "1%",
+        "points": 655
     },
     {
         "username": "Luke Lo",
-        "userId": 0,
-        "balance": 554
+        "prize": 0,
+        "share": "1%",
+        "points": 554
     },
     {
         "username": "Henry Watson",
-        "userId": 0,
-        "balance": 454
+        "prize": 0,
+        "share": "1%",
+        "points": 454
     },
     {
         "username": "Jenny Pandora",
-        "userId": 0,
-        "balance": 354
+        "prize": 0,
+        "share": "1%",
+        "points": 354
     },
     {
         "username": "Lisa Lui",
-        "userId": 0,
-        "balance": 2765
+        "prize": 0,
+        "share": "1%",
+        "points": 2765
     },
     {
         "username": "Momo Tan",
-        "userId": 0,
-        "balance": 156
+        "prize": 0,
+        "share": "1%",
+        "points": 156
     },
     {
         "username": "Owen Tan",
-        "userId": 0,
-        "balance": 650
+        "prize": 0,
+        "share": "1%",
+        "points": 650
     },
     {
         "username": "Lile Lo",
-        "userId": 0,
-        "balance": 500
+        "prize": 0,
+        "share": "1%",
+        "points": 500
     },
     {
         "username": "Yun Lee",
-        "userId": 0,
-        "balance": 300
+        "prize": 0,
+        "share": "1%",
+        "points": 300
     },
     {
         "username": "Penny Teo",
-        "userId": 0,
-        "balance": 222
+        "prize": 0,
+        "share": "1%",
+        "points": 222
     },
     {
         "username": "Aimer Loe",
-        "userId": 0,
-        "balance": 132
+        "prize": 0,
+        "share": "1%",
+        "points": 132
     },
     {
         "username": "Jesper Ooi",
-        "userId": 0,
-        "balance": 100
+        "prize": 0,
+        "share": "1%",
+        "points": 100
     }
 ]
